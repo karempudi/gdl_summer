@@ -1,1 +1,2 @@
-# gdl_summer
+# Summer of Generative modeling
+
